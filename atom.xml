@@ -4,11 +4,10 @@
     <title>EA Scientific</title>
     <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.5.3</generator>
 		<icon>/apple-touch-icon-precomposed.png</icon>
-    <subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle>
+    <subtitle>dff</subtitle>
     <link href="/atom.xml" rel="self"/>
     <link href="/" rel="alternate" type="text/html"/>
-    <updated>2014-12-28T15:22:37-05:00</updated>
+    <updated>2014-12-28T15:23:27-05:00</updated>
     <id>/</id>
     <author>
 			<name>Sebastian Kropp</name>
